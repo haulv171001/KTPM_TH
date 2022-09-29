@@ -1,0 +1,18 @@
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\ActiveMQSender.pdb
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.dll
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.dll
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.pdb
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.pdb
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.xml
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\obj\Debug\ActiveMQSender.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\obj\Debug\ActiveMQSender.pdb
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\ActiveMQSender.exe
+c:\users\student\documents\visual studio 2015\Projects\LeVanHau_19442641_Tuan2\ActiveMQSender\obj\Debug\ActiveMQSender.exe
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\obj\Debug\ActiveMQSender.exe
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\obj\Debug\ActiveMQSender.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\ActiveMQSender.exe
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\ActiveMQSender.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.xml
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQSender\obj\Debug\ActiveMQSender.csprojResolveAssemblyReference.cache

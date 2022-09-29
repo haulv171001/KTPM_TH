@@ -1,0 +1,13 @@
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\ActiveMQDemoReceiver.exe.config
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\ActiveMQDemoReceiver.exe
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\ActiveMQDemoReceiver.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\Apache.NMS.ActiveMQ.dll
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\Apache.NMS.dll
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\BenhNhan.dll
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\BenhNhan.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\Apache.NMS.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\Apache.NMS.ActiveMQ.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\bin\Debug\Apache.NMS.ActiveMQ.xml
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\obj\Debug\ActiveMQDemoReceiver.csprojResolveAssemblyReference.cache
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\obj\Debug\ActiveMQDemoReceiver.exe
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\ActiveMQDemoReceiver\obj\Debug\ActiveMQDemoReceiver.pdb

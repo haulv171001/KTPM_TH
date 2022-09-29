@@ -1,0 +1,14 @@
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\BenhNhan.dll
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\BenhNhan.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\Apache.NMS.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\Apache.NMS.ActiveMQ.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\bin\Debug\Apache.NMS.ActiveMQ.xml
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\obj\Debug\LeVanHau_19442641.csprojResolveAssemblyReference.cache
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\obj\Debug\LeVanHau_19442641.csproj.GenerateResource.Cache
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\LeVanHau_19442641_Tuan3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

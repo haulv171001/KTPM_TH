@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Apache.NMS;
+using Apache.NMS.ActiveMQ;
+using Apache.NMS.ActiveMQ.Commands;using BenhNhan;
+using System.Xml.Serialization;
+using System.IO;
+using BenhNhan;
+namespace ActiveMQDemoReceiver
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("receiving message. Enter to exit.");
+            //tạo connection factory
+            IConnectionFactory factory = new
+           ConnectionFactory("tcp://localhost:61616");
+            //tạo connection
+            IConnection con = factory.CreateConnection("admin", "admin");
+            con.Start();//nối tới MOM
+                        //tạo session
+            ISession session = con.CreateSession(AcknowledgementMode.AutoAcknowledge);
+            //tạo consumer
+            ActiveMQQueue destination = new ActiveMQQueue("thanthidet");
+            IMessageConsumer consumer = session.CreateConsumer(destination);
+            //nhận mesage - lắng nghe
+            consumer.Listener += Consumer_Listener;
+            Console.ReadKey();
+        }
+        private static void Consumer_Listener(IMessage message)
+        {
+            if (message is IObjectMessage)
+                {
+                IObjectMessage obj = message as IObjectMessage;
+                Person bn = (Person) obj.Body;
+                Console.WriteLine(bn.ToString());
+                }
+        }
+    }
+}

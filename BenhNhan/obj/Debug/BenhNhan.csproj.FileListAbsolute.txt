@@ -1,0 +1,5 @@
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\BenhNhan\bin\Debug\BenhNhan.dll
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\BenhNhan\bin\Debug\BenhNhan.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\BenhNhan\obj\Debug\BenhNhan.dll
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\BenhNhan\obj\Debug\BenhNhan.pdb
+E:\KTVTKPM\C#\LeVanHau_19442641_Tuan2\BenhNhan\obj\Debug\BenhNhan.csprojResolveAssemblyReference.cache
